@@ -1,6 +1,7 @@
 @media(max-width:768px){
     .text{
         font-size: 25px;
+        font-family: Georgia, serif;
     }
     .menu__logo{
         position: relative;
@@ -144,6 +145,7 @@ border-radius: 100px;
             .text{
                 color: white;
                 font-size: 20px;
+                font-family: Georgia, serif;
             }
             .menu__text a{
                 position: relative;
@@ -170,6 +172,7 @@ border-radius: 100px;
         .text{
             color: white;
             font-size: 20px;
+            font-family: Georgia, serif;
         }
         .menu__text a{
             position: relative;
@@ -178,6 +181,7 @@ border-radius: 100px;
             color: white;
             text-decoration: none;
             margin: 0px 60px 0px 0px;
+            font-family: Georgia, serif;
         }
         .text a{
             position: relative;
@@ -204,6 +208,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-weight: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -212,6 +217,7 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 80px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:207px){
@@ -229,6 +235,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 17px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -237,6 +244,7 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 0.6px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:433px){
@@ -300,10 +308,12 @@ border-radius: 100px;
             background-size: auto 180%;
             background-position: center;
             border-radius: 100px;
+            
                 }
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -312,6 +322,7 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 80px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:360px){
@@ -329,6 +340,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -337,6 +349,7 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 80px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:332px){
@@ -354,6 +367,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -362,6 +376,7 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 60px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:289px){
@@ -379,6 +394,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -386,6 +402,7 @@ border-radius: 100px;
                     left: 8%;
                     color: white;
                     text-decoration: none;
+                    font-family: Georgia, serif;
                     margin: 0px 40px 0px 0px;
                 }
         }
@@ -404,6 +421,7 @@ border-radius: 100px;
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -412,23 +430,15 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 30px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
         @media(max-width:443px){
-            .menu__logo{
-                position: relative;
-                top: -70px;
-              left:320px;
-            width: 80px;
-            height:80px ;
-            background:url("icon.jpg") no-repeat;
-            background-size: auto 180%;
-            background-position: center;
-            border-radius: 100px;
-                }
+            
                 .text{
                     color: white;
                     font-size: 20px;
+                    font-family: Georgia, serif;
                 }
                 .menu__text a{
                     position: relative;
@@ -437,5 +447,6 @@ border-radius: 100px;
                     color: white;
                     text-decoration: none;
                     margin: 0px 80px 0px 0px;
+                    font-family: Georgia, serif;
                 }
         }
