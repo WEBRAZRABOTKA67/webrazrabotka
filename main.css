@@ -15,7 +15,7 @@
     }
     .text a{
         position: relative;
-        top: 20px;
+        top: 15px;
         color: white;
         text-decoration: none;
         text-transform: uppercase;
@@ -128,12 +128,14 @@ border-radius: 100px;
     @media(max-width:343px){
         .menu__logo{
             position: relative;
-            top: -10px;
-            left: 10%;
-            width: 60px;
-            height:60px ;
-            background-color: white;
-            border-radius: 100px;
+        top: -70px;
+      left:320px;
+    width: 80px;
+    height:80px ;
+    background:url("Img/icon.jpg") no-repeat;
+    background-size: auto 180%;
+    background-position: center;
+    border-radius: 100px;
             }
             .text{
                 color: white;
@@ -152,12 +154,14 @@ border-radius: 100px;
 @media(max-width:377px){
     .menu__logo{
         position: relative;
-        top: -10px;
-        left: 150px;
-        width: 60px;
-        height:60px ;
-        background-color: white;
-        border-radius: 100px;
+        top: -70px;
+      left:320px;
+    width: 80px;
+    height:80px ;
+    background:url("Img/icon.jpg") no-repeat;
+    background-size: auto 180%;
+    background-position: center;
+    border-radius: 100px;
         }
         .text{
             color: white;
@@ -180,40 +184,19 @@ border-radius: 100px;
             
         }
 }
-@media(max-width:320px){
-    .menu__logo{
-        position: relative;
-        top: -10px;
-        left: 130px;
-        width: 60px;
-        height:60px ;
-        background-color: white;
-        border-radius: 100px;
-        }
-        .text{
-            color: white;
-            font-size: 20px;
-        }
-        .menu__text a{
-            position: relative;
-            font-size: 20px;
-            left: 10%;
-            color: white;
-            text-decoration: none;
-            margin: 0px 60px 0px 0px;
-        }
-        
-        }
+
         @media(max-width:425px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 180px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
-                }
+        top: -70px;
+      left:320px;
+    width: 80px;
+    height:80px ;
+    background:url("Img/icon.jpg") no-repeat;
+    background-size: auto 180%;
+    background-position: center;
+    border-radius: 100px;
+            }
                 .text{
                     color: white;
                     font-size: 20px;
@@ -230,12 +213,14 @@ border-radius: 100px;
         @media(max-width:207px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 80px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+        top: -70px;
+      left:320px;
+    width: 80px;
+    height:80px ;
+    background:url("Img/icon.jpg") no-repeat;
+    background-size: auto 180%;
+    background-position: center;
+    border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -253,12 +238,14 @@ border-radius: 100px;
         @media(max-width:433px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 200px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -276,12 +263,14 @@ border-radius: 100px;
         @media(max-width:399px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 170px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -299,12 +288,14 @@ border-radius: 100px;
         @media(max-width:355px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 145px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -322,12 +313,14 @@ border-radius: 100px;
         @media(max-width:360px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 145px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -345,12 +338,14 @@ border-radius: 100px;
         @media(max-width:332px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 135px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -368,12 +363,14 @@ border-radius: 100px;
         @media(max-width:289px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 120px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -391,12 +388,14 @@ border-radius: 100px;
         @media(max-width:252px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 100px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
@@ -414,12 +413,14 @@ border-radius: 100px;
         @media(max-width:443px){
             .menu__logo{
                 position: relative;
-                top: -10px;
-                left: 200px;
-                width: 60px;
-                height:60px ;
-                background-color: white;
-                border-radius: 100px;
+                top: -70px;
+              left:320px;
+            width: 80px;
+            height:80px ;
+            background:url("Img/icon.jpg") no-repeat;
+            background-size: auto 180%;
+            background-position: center;
+            border-radius: 100px;
                 }
                 .text{
                     color: white;
